@@ -1,4 +1,4 @@
-# 💬Full-Stack JavaScript Chatbot
+# 💬Full-Stack Chatbot
 
 A simple **full-stack JavaScript chatbot** built with separate frontend and backend components — ready for customization, experimentation, and conversational interface work.
 
