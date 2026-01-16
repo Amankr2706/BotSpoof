@@ -69,5 +69,5 @@ A simple **full-stack JavaScript chatbot** built with separate frontend and back
 
 - Make your changes and add tests if relevant
 
-- Submit a pull request, describing your changes clearly
+- Submit a pull request, describing your changes clearl
 
